@@ -1,2 +1,2 @@
 Algoritmos:
-- Esse repositório é destinado a todos os códigos construido na disciplina de algoritmos. 
+- Esse repositório é destinado a todos os códigos construídos na disciplina de algoritmos. 
